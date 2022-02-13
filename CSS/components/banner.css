@@ -1,0 +1,18 @@
+.banner {
+	background-image: url("../../Images/wine.jpeg");
+	color: white;
+	padding: 205px 0px;
+	background-size: cover;
+	background-position: center;
+}
+
+.banner h1 {
+	font-size: 80px;
+	opacity: 0.8;
+}
+
+.banner h2 {
+	font-size: 25px;
+	font-weight: lighter;
+	opacity: 1.2;
+}
